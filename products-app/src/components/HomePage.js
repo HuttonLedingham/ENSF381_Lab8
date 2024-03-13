@@ -38,7 +38,7 @@ const HomePage = () => {
                 </thead>
                 <tbody>
                     <tr>
-                        <td style={styles.td}>Hutton Ledingham,</td>
+                        <td style={styles.td}>Hutton Ledingham</td>
                         <td style={styles.td}>Developer</td>
                     </tr>
                     <tr>
